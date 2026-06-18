@@ -77,3 +77,4 @@ tienda.popitem() # elimina el ultimo elemento
 # para limpiar todo el diccionario
 tienda.clear()
 ```
+## recorrer un diccionario (tarea)
